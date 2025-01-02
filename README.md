@@ -2,18 +2,18 @@ Here's an improved and better-formatted version of your `README.md`:
 
 ---
 
-# **How Are the Prices of Airbnb Listings in Berlin on 18 September 2018 Affected by Locations and Room Types?**  
+# **How Are the Prices of Airbnb Listings in Berlin on 18 September 2024 Affected by Locations and Room Types?**  
 **Author:** Felix Junious  
 
 ## **Overview**  
-This project analyzes Airbnb listings in Berlin, Germany, focusing on the factors influencing the price of listings, particularly their **location** and **room type**. The analysis uses data from **18 September 2018**, providing insights into trends and patterns in pricing.  
+This project analyzes Airbnb listings in Berlin, Germany, focusing on the factors influencing the price of listings, particularly their **location** and **room type**. The analysis uses data from **18 September 2024**, providing insights into trends and patterns in pricing.  
 
 A detailed summary of the findings can be found in [`reports/summary.ipynb`](./reports/summary.ipynb).  
 
 ---
 
 ## **Dataset Description**  
-The dataset is sourced from [Inside Airbnb](https://insideairbnb.com/get-the-data/). The data used in this analysis pertains to Berlin, Germany, for **18 September 2018**, and the primary dataset utilized is `listings.csv`.  
+The dataset is sourced from [Inside Airbnb](https://insideairbnb.com/get-the-data/). The data used in this analysis pertains to Berlin, Germany, for **18 September 2024**, and the primary dataset utilized is `listings.csv`.  
 
 ### **Key Attributes in the Dataset:**  
 - **Basic Details:**  
